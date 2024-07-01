@@ -22,4 +22,4 @@ require (
 	golang.org/x/tools v0.20.0 // indirect
 	google.golang.org/protobuf v1.31.0 // indirect
 )
-replace github.com/sagernet/quic-go v0.43.0-beta.3 => github.com/rtlvpn/quic-go v0.0.0-20240701155242-d7a43af25bbe
+replace github.com/sagernet/quic-go v0.43.0-beta.3 => github.com/rtlvpn/quic-go v0.0.0-20240701163211-7225b1fbe479
